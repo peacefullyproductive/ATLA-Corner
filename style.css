@@ -1,0 +1,47 @@
+
+
+
+body{
+    background-image: url(avatar_sitebg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    border: 5px;
+}
+h1{
+    border: outset;
+    border-color: cornflowerblue;
+    background-color: beige;
+    border-radius: 10px;
+    font-family: Herculanum;
+}
+p{
+    font-family:'Courier New', Courier, monospace;
+    border-style:outset;
+    border-color:cornflowerblue;
+    background-color: beige;
+    border-radius: 10px;
+}
+list1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    padding: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

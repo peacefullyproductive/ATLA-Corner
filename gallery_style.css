@@ -1,0 +1,21 @@
+body{
+    background-image: url(bluespirit.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    border: 1px solid #ddd;
+    border-radius: 25px;
+    padding: 5px;
+    height: 450px;
+}
+h1{
+    border: outset;
+    border-color: cornflowerblue;
+    background-color: beige;
+    border-radius: 10px;
+    font-family: Herculanum ;
+}
+    
